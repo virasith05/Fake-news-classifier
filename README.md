@@ -14,7 +14,7 @@ A machine learning project that classifies news articles as real or fake using a
 
 ## Project Overview
 
-This project is a comprehensive approach to fake news detection using machine learning techniques, designed to help MSCS students and researchers learn the mechanics of classification algorithms in NLP. It compares various models like Random Forest, Naive Bayes, SVM, Decision Tree, and XGBoost. Each model's performance is evaluated using metrics such as accuracy and confusion matrices.
+This project is a comprehensive approach to fake news detection using machine learning techniques, designed to help students and researchers learn the mechanics of classification algorithms in NLP. It compares various models like Random Forest, Naive Bayes, SVM, Decision Tree, and XGBoost. Each model's performance is evaluated using metrics such as accuracy and confusion matrices.
 
 ## Features
 
